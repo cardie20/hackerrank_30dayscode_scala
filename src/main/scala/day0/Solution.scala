@@ -1,4 +1,5 @@
-object Solution {
+package day0
+object Day0 {
   def main(args: Array[String]) {
     // Print "Hello, World."
     println("Hello, World.")

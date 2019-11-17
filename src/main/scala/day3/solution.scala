@@ -8,7 +8,7 @@ import java.util.function._
 import java.util.regex._
 import java.util.stream._
 
-object Solution {
+object Day3 {
 
 
 

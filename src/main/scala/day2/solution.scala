@@ -8,7 +8,7 @@ import java.util.function._
 import java.util.regex._
 import java.util.stream._
 
-object Solution {
+object Day2 {
 
   // Complete the solve function below.
   def solve(meal_cost: Double, tip_percent: Int, tax_percent: Int) {
